@@ -6,3 +6,5 @@ psycopg[binary]
 pydantic-settings
 pytest
 httpx
+bcrypt
+PyJWT
