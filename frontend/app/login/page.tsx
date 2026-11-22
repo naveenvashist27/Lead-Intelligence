@@ -27,7 +27,7 @@ export default function LoginPage() {
 
   return (
     <main style={{ maxWidth: 360, margin: "10vh auto", padding: 16 }}>
-      <h1>ETDOX Lead Intelligence</h1>
+      <h1 style={{ color: "#111827" }}>ETDOX Lead Intelligence</h1>
       <form onSubmit={onSubmit} style={{ display: "grid", gap: 12 }}>
         <label>
           Email
